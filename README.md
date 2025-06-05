@@ -10,9 +10,8 @@
 
 ## 1. Create New Laravel Project
 
-```powershell
-composer create-project laravel/laravel myproject
-cd myproject
+```Visual Studio Cmnd, Git Bash and etc
+composer create-project laravel/laravel your-project-name "10.*"
 ```
 
 ## 2. Initialize Git (optional)
