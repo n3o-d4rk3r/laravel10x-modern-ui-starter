@@ -1,4 +1,5 @@
 
+
 # Laravel 10.x + Vite + SCSS + Tailwind (Optional) Setup Guide
 
 ## Prerequisites
